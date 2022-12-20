@@ -1,6 +1,6 @@
-### Hi there 👋
+# Kamil Podgórski
 
-**kamilp522/kamilp522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Junior Frontend Developer`**
 
 Here are some ideas to get you started:
 
