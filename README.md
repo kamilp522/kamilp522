@@ -23,5 +23,8 @@ I started my journey with coding in 2021/2022. My father needed a website for hi
 
 <br />
 <br />
+<br />
+<br />
+<br />
 
 <img align="left" style="margin-top:20px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilp522&layout=compact&hide=php">
