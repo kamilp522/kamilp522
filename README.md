@@ -9,7 +9,7 @@ I started my journey with coding in 2021/2022. My father needed a website for hi
 ### Used Technologies
 
 <img aling="left" alt="HTML5" title="HTML5" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img aling="left" alt="CSS3" title="CSS3" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img display="inline-block" aling="left" alt="CSS3" title="CSS3" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img aling="left" alt="Sass" title="Sass" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 <img aling="left" alt="JavaScript" title="JavaScript" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img aling="left" alt="React" title="React" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
