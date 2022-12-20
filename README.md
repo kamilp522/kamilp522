@@ -6,6 +6,17 @@ I started my journey with coding in 2021/2022. My father needed a website for hi
 
 ---
 
-### Languages and Tools
+### Used Technologies
 
+<img aling="left" alt="HTML5" title="HTML5" width="34px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img aling="left" alt="CSS3" title="CSS3" width="34px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img aling="left" alt="Sass" title="Sass" width="34px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 <img aling="left" alt="JavaScript" title="JavaScript" width="34px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img aling="left" alt="React" title="React" width="34px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img aling="left" alt="Redux" title="Redux" width="34px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" >
+<img aling="left" alt="node.js" title="node.js" width="34px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img aling="left" alt="express.js" title="express.js" width="34px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+<img aling="left" alt="Webpack" title="Webpack" width="34px" style="padding-right:10px" src=src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
+<img aling="left" alt="Babel" title="Babel" width="34px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg">
+<img aling="left" alt="jest" title="jest" width="34px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+<img aling="left" alt="eslint" title="eslint" width="34px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
