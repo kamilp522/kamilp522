@@ -2,7 +2,7 @@
 
 ### **`Junior Developer`**
 
-I started my journey with coding in 2021/2022. My father needed a website for his local company so I volontured for that. Having absolutely no idea about web development I tackled for a while with this as a side project and after some time shipped the first version of the website. I started coding because I needed that for something specific. I soon realized that programming can be very powerful in providing tools to solve practically every problem. Since then I dedicate almost every ounce of my free time to expand my programming skills, mainly with projects that I want to use myself.
+I started my journey with coding in 2021/2022. My father needed a website for his local company, so I volunteered for that. Having absolutely no idea about web development I tackled for a while with this as a side project and after some time shipped the first version of the website. I started coding because I needed that for something specific. I soon realized that programming can be very powerful in providing tools to solve practically every problem. Since then I dedicate almost every ounce of my free time to expanding my programming skills, mainly with projects that I want to use myself.
 
 ---
 
@@ -24,7 +24,5 @@ I started my journey with coding in 2021/2022. My father needed a website for hi
 <br />
 <br />
 <br />
-<br />
-<br />
 
-<img align="left" style="margin-top:20px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilp522&layout=compact&hide=php">
+<img align="left" title="statisctics" style="margin-top:20px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilp522&layout=compact&hide=php">
