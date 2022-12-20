@@ -11,7 +11,7 @@ I started my journey with coding in 2021/2022. My father needed a website for hi
 ### My last Project (midtrader) that I'm most proud of:
 
 - click <a href="https://midtrader.fly.dev/" target="_blank">here</a> for the live website
-- click <a href="https://midtrader.fly.dev/" target="_blank">here</a> for video showreel
+- click <a href="https://www.youtube.com/watch?v=jckOW0lykHU" target="_blank">here</a> for video presenting the project
 
 ---
 
