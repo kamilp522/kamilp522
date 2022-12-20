@@ -21,6 +21,4 @@ I started my journey with coding in 2021/2022. My father needed a website for hi
 <img align="left" alt="jest" title="jest" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 <img align="left" alt="eslint" title="eslint" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
 
-<br>
-
-<img style="margin-block: 20px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilp522&layout=compact&hide=php">
+<img style="margin-top:20px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilp522&layout=compact&hide=php">
