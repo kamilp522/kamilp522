@@ -15,7 +15,7 @@ I started my journey with coding in 2021/2022. My father needed a website for hi
 
 ---
 
-### Tech Stack
+### Tech Stack:
 
 <img align="left" alt="HTML5" title="HTML5" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img display="inline-block" align="left" alt="CSS3" title="CSS3" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -30,7 +30,8 @@ I started my journey with coding in 2021/2022. My father needed a website for hi
 <img align="left" alt="jest" title="jest" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 <img align="left" alt="mongo db" title="mongo db" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
 <img align="left" alt="eslint" title="eslint" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
-<img align="left" alt="node packaga manager" title="node packaga manager" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+<img align="left" alt="npm" title="npm" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+<img align="left" alt="git" title="git" width="33px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 <br />
 <br />
