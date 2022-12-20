@@ -8,4 +8,4 @@ I started my journey with coding in 2021/2022. My father needed a website for hi
 
 ### Languages and Tools
 
-<img aling="left" alt="JavaScript" width="34px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img aling="left" alt="JavaScript" title="JavaScript" width="34px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
