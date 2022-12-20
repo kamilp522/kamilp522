@@ -2,7 +2,7 @@
 
 ### **`Junior Frontend Developer`**
 
-Hi, my name is Kamil, I'm retail trader and aspiring frontend developer living currently in Kraków, Poland <img style="display: inline-block; margin-left: 3px" width="20px" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg">
+Hi, my name is Kamil, I'm a retail trader and an aspiring frontend developer living currently in Kraków, Poland <img style="display: inline-block; margin-left: 3px" width="20px" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg">
 
 I started my journey with coding in 2021/2022. My father needed a website for his local company, so I volunteered for that. Having absolutely no idea about web development I tackled for a while with this as a side project and after some time shipped the first version of the website. I started coding because I needed that for something specific. I soon realized that programming can be very powerful in providing tools to solve practically every problem. Since then I dedicate almost every ounce of my free time to expanding my programming skills, mainly with projects that I want to use myself.
 
@@ -10,8 +10,8 @@ I started my journey with coding in 2021/2022. My father needed a website for hi
 
 ### My last Project (midtrader) that I'm most proud of:
 
-- click <a href="https://midtrader.fly.dev/">here</a> for the live website
-- click <a href="https://midtrader.fly.dev/">here</a> for video showreel
+- click <a href="https://midtrader.fly.dev/" target="_blank">here</a> for the live website
+- click <a href="https://midtrader.fly.dev/" target="_blank">here</a> for video showreel
 
 ---
 
