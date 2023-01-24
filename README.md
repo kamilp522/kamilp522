@@ -21,6 +21,7 @@ I started my journey with coding in 2021/2022. My father needed a website for hi
 <img align="left" alt="CSS3" title="CSS3" width="29px" style="padding-right:7.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Sass" title="Sass" width="29px" style="padding-right:7.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 <img align="left" alt="JavaScript" title="JavaScript" width="29px" style="padding-right:7.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="left" alt="TypeScript" title="TypeScript" width="29px" style="padding-right:7.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="left" alt="React" title="React" width="29px" style="padding-right:7.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="left" alt="Redux" title="Redux" width="29px" style="padding-right:7.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" >
 <img align="left" alt="node.js" title="node.js" width="29px" style="padding-right:7.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
