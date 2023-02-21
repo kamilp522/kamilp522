@@ -1,6 +1,6 @@
 # Kamil Podgórski
 
-### **`Junior Developer`**
+<!-- ### **`Junior Developer`** -->
 
 Hi, my name is Kamil, I'm a retail trader and an aspiring software developer living currently in Kraków, Poland <img style="display: inline-block; margin-left: 3px" width="20px" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg">
 
